@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.5818a9ec.css",
-    "main.js": "/portofolio/static/js/main.768a204b.js",
+    "main.css": "/portofolio/static/css/main.8bfe6a7d.css",
+    "main.js": "/portofolio/static/js/main.e2ab9472.js",
     "static/media/bali.PNG": "/portofolio/static/media/bali.64542ad4267809b4e9b2.PNG",
     "static/media/ppid.PNG": "/portofolio/static/media/ppid.3d1e6c39f356f2c7f61b.PNG",
     "static/media/me.png": "/portofolio/static/media/me.75246dcbe5f6d77cf612.png",
     "static/media/ppidmobile.PNG": "/portofolio/static/media/ppidmobile.3e5268c0b600381a24de.PNG",
+    "static/media/simpedesa.PNG": "/portofolio/static/media/simpedesa.b3477412639a075a3811.PNG",
     "static/media/siputri.PNG": "/portofolio/static/media/siputri.cc79324a5a4eedbc5118.PNG",
+    "static/media/satgaspen.PNG": "/portofolio/static/media/satgaspen.1af943b3783c3c70b159.PNG",
     "static/media/me2.jpg": "/portofolio/static/media/me2.c7a0224792ceef569b4f.jpg",
-    "static/media/eoffice.PNG": "/portofolio/static/media/eoffice.c75b722788c782e50c29.PNG",
+    "static/media/digipulsa.PNG": "/portofolio/static/media/digipulsa.0d06b8997569989b7766.PNG",
     "static/media/bebeja.PNG": "/portofolio/static/media/bebeja.b83b47b7b4a002f3966f.PNG",
+    "static/media/simpan.PNG": "/portofolio/static/media/simpan.b298798cc5b8388eb6c4.PNG",
     "static/media/ekaku.PNG": "/portofolio/static/media/ekaku.85762da139027e7df20d.PNG",
     "static/media/satudata.PNG": "/portofolio/static/media/satudata.f74c8a292daad077e9fc.PNG",
     "static/media/bg-texture.png": "/portofolio/static/media/bg-texture.3e9170690495094b2f13.png",
     "static/media/mpp.PNG": "/portofolio/static/media/mpp.f3ac6e05267f5c897965.PNG",
     "static/media/cv.pdf": "/portofolio/static/media/cv.f0adeef73d5fd1946fb5.pdf",
     "index.html": "/portofolio/index.html",
-    "main.5818a9ec.css.map": "/portofolio/static/css/main.5818a9ec.css.map",
-    "main.768a204b.js.map": "/portofolio/static/js/main.768a204b.js.map"
+    "main.8bfe6a7d.css.map": "/portofolio/static/css/main.8bfe6a7d.css.map",
+    "main.e2ab9472.js.map": "/portofolio/static/js/main.e2ab9472.js.map"
   },
   "entrypoints": [
-    "static/css/main.5818a9ec.css",
-    "static/js/main.768a204b.js"
+    "static/css/main.8bfe6a7d.css",
+    "static/js/main.e2ab9472.js"
   ]
 }
