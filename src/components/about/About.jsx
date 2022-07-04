@@ -38,11 +38,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello! My name is Handika and I enjoy creating things that live on
-            the internet. My interest in web development started back in 2013
-            when I decided to try editing custom Tumblr themes together a custom
-            reblog button taught me a lot about HTML & CSS! please scroll down
-            to see my experience
+          Hello! My name is Handika and I love to create living things
+            Internet. My interest in web development started in 2013
+            when I decided to try a custom Tumblr theme together it became custom
+            the reblog button taught me a lot about HTML & CSS! please scroll down
+            to see my experience. I also open an application creation service for those who are interested please contact me
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

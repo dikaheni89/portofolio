@@ -10,7 +10,10 @@ import ekaku from "../../assets/ekaku.PNG";
 import ppidmobile from "../../assets/ppidmobile.PNG";
 import bebeja from "../../assets/bebeja.PNG";
 import siputri from "../../assets/siputri.PNG";
-import eoffice from "../../assets/eoffice.PNG";
+import simpedesa from "../../assets/simpedesa.PNG";
+import satgaspen from "../../assets/satgaspen.PNG";
+import simpan from "../../assets/simpan.PNG";
+import digipulsa from "../../assets/digipulsa.PNG";
 
 const Portofolio = () => {
   return (
@@ -121,6 +124,9 @@ const Portofolio = () => {
             <img src={ppidmobile} alt="ppidmobile" />
           </div>
           <h3>PPID Mobile</h3>
+          <small>
+          PPD Pandeglang Regency is an application for managing publicly available information documents for the district community made in 2021
+          </small>
           <div className="portofolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.ppid.newppid"
@@ -172,16 +178,69 @@ const Portofolio = () => {
         </article>
         <article className="portofolio__item">
           <div className="portofolio__item-image">
-            <img src={eoffice} alt="eoffice" />
+            <img src={simpedesa} alt="simpedesa" />
           </div>
-          <h3>E-Office Kabupaten Pandeglang</h3>
+          <h3>Simpedesa.id</h3>
           <small>
-            e-office is a correspondence management application that can be
-            directly archived this application was made in late 2021
+          simpedesa is a public service for village community users. This project is made on an ongoing basis until 2022. Simpedesa is an application in managing village data from work to data collection on village communities which are summarized systematically.
           </small>
           <div className="portofolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=id.pandeglangkab.eoffice"
+              href="https://simpedesa.id/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={satgaspen} alt="satgaspen" />
+          </div>
+          <h3>PC Satgas PEN</h3>
+          <small>
+          PC Task Force PEN is an application to dynamically all information on Task Force activities throughout Indonesia within the Indonesian National Police this application was created in 2019.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.simbatech.mabespolri"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={simpan} alt="simpan" />
+          </div>
+          <h3>Simpan BMN</h3>
+          <small>
+          Save BMN is an application for monitoring data assets on a scheduled basis, this application is intended for internal use in managing office data assets, created in 2022.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tools.sistemsimpanbmn"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={digipulsa} alt="digipulsa" />
+          </div>
+          <h3>Digipulsa</h3>
+          <small>
+          Digipulsa is a PPOB service application and credit payment service.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tools.sistemsimpanbmn"
               className="btn btn-primary"
               target="_blank"
             >

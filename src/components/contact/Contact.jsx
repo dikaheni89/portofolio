@@ -26,13 +26,13 @@ const Contact = () => {
           </div>
         </div>
         {/* {End of Frontend} */}
-        <div className="experience__backend">
+        <div className="experience__frontend">
           <h3>Whatshapp Contact</h3>
           <div className="experience__content">
             <article className="experience__detail">
               <AiOutlineWhatsApp className="experience__details-icon" />
               <div>
-                <h4>+62 817 1781 3105</h4>
+                <h4>+62 81717813105</h4>
                 <a href="https://wa.me/+6281717813105" target="_blank">
                   Send a Whatshapp
                 </a>
