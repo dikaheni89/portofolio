@@ -259,7 +259,7 @@ const Portofolio = () => {
           </small>
           <div className="portofolio__item-cta">
             <a
-              href="https://play.google.com/store/apps/details?id=com.tools.sistemsimpanbmn"
+              href="https://cendekiawankampung.com/"
               className="btn btn-primary"
               target="_blank"
             >
