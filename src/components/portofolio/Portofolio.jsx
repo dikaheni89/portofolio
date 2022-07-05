@@ -14,6 +14,7 @@ import simpedesa from "../../assets/simpedesa.PNG";
 import satgaspen from "../../assets/satgaspen.PNG";
 import simpan from "../../assets/simpan.PNG";
 import digipulsa from "../../assets/digipulsa.PNG";
+import cendekiawan from "../../assets/cendekiawan.PNG"
 
 const Portofolio = () => {
   return (
@@ -237,6 +238,24 @@ const Portofolio = () => {
           <h3>Digipulsa</h3>
           <small>
           Digipulsa is a PPOB service application and credit payment service.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tools.sistemsimpanbmn"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={cendekiawan} alt="cendekiawan" />
+          </div>
+          <h3>Cendekiawan Kampung</h3>
+          <small>
+          village scholar is an application for mutual assistance in educational scholarships this application was made in 2022.
           </small>
           <div className="portofolio__item-cta">
             <a
