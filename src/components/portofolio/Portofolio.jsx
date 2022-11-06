@@ -15,6 +15,8 @@ import satgaspen from "../../assets/satgaspen.PNG";
 import simpan from "../../assets/simpan.PNG";
 import digipulsa from "../../assets/digipulsa.PNG";
 import cendekiawan from "../../assets/cendekiawan.PNG"
+import arthoojol from "../../assets/arthoojol.PNG"
+import koperasi from "../../assets/koperasi.PNG"
 
 const Portofolio = () => {
   return (
@@ -260,6 +262,42 @@ const Portofolio = () => {
           <div className="portofolio__item-cta">
             <a
               href="https://cendekiawankampung.com/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={arthoojol} alt="Artho ojol" />
+          </div>
+          <h3>Artho Transportation Online</h3>
+          <small>
+          artho is an online transportation application that is engaged in services, this application was made using flutter and laravel the project was completed in october 2022.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://ojol.arthopay.id/login"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              View Project
+            </a>
+          </div>
+        </article>
+        <article className="portofolio__item">
+          <div className="portofolio__item-image">
+            <img src={koperasi} alt="Arthomoro" />
+          </div>
+          <h3>Arthomoro Koperasi Digital</h3>
+          <small>
+          arthomoro is a digital-based cooperative application as well as a digital wallet provided for artho transportation, this application is in the form of a super app, completed in October 2022.
+          </small>
+          <div className="portofolio__item-cta">
+            <a
+              href="https://play.google.com/store/apps/details?id=id.arthopay.arthopay"
               className="btn btn-primary"
               target="_blank"
             >
